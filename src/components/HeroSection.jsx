@@ -35,7 +35,7 @@ export default function HeroSection() {
       'DTEND:20260627T083000Z', // 2:00 PM IST (UTC+5:30 is 8:30 AM UTC)
       'SUMMARY:Salini & Vaisakh Wedding Ceremony',
       'DESCRIPTION:You are cordially invited to celebrate the marriage of Salini and Vaisakh. Muhurtham: 10:30 AM - 11:00 AM. Lunch to follow.',
-      'LOCATION:Kairali Auditorium, Poozhikunnu, Valanchery, Kerala, India',
+      'LOCATION:Kairali Auditorium, Poozhikunnu, Tirur, Kerala, India',
       'END:VEVENT',
       'END:VCALENDAR'
     ].join('\r\n');
