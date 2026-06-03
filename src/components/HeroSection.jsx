@@ -116,7 +116,7 @@ export default function HeroSection() {
                 Muhurtham: 10:30 AM — 11:00 AM IST
               </p>
               <p className="font-serif italic text-ivory/75 text-xs">
-                Kairali Auditorium, Poozhikunnu, Valanchery, Kerala
+                Kairali Auditorium, Poozhikunnu, Tirur, Kerala
               </p>
             </div>
           </motion.div>
